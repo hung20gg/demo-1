@@ -1,0 +1,1 @@
+print("Hng yêu huyn")
